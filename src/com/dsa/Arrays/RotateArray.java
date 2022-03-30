@@ -1,9 +1,9 @@
 package com.dsa.Arrays;
 /*
 Question: https://leetcode.com/problems/rotate-array
-Solution: https://leetcode.com/submissions/detail/669805586/
+Solution: https://leetcode.com/problems/rotate-array/discuss/1895291/Rotate-Array-Java-Solution-oror-0ms-oror-easy-to-understand-oror-swapping-without-third-variable
 Time Complexity: O(n)
-Space Complexity: O(1)
+Space Complexity: O(n)
  */
 import java.util.Arrays;
 
