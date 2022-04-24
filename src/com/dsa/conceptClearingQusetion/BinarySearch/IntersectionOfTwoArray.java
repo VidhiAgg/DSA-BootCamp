@@ -3,6 +3,8 @@ package com.dsa.conceptClearingQusetion.BinarySearch;
 import java.util.*;
 
 //https://leetcode.com/problems/intersection-of-two-arrays
+
+//https://leetcode.com/problems/intersection-of-two-arrays/discuss/1975241/Java-solution
 public class IntersectionOfTwoArray {
     public static void main(String[] args) {
         int [] num1 = {1,2,2,1};
